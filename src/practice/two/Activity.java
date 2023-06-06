@@ -3,7 +3,8 @@ package practice.two;
 public class Activity {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Hello world this is the github repository");
+		System.out.println("this is the second github");
 
 	}
 
